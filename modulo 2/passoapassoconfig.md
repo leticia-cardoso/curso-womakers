@@ -12,3 +12,5 @@ adicina todos os arquivos para a esteira do commit
 
 ### git add <caminho do arquivo>
 Adiciona o caminho (arquivo) em específico
+
+### git commit
